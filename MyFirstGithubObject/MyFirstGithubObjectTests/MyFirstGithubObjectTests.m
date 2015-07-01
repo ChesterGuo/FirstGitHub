@@ -1,6 +1,6 @@
 //
-//  SBTests.m
-//  SBTests
+//  MyFirstGithubObjectTests.m
+//  MyFirstGithubObjectTests
 //
 //  Created by tarena on 15/7/1.
 //  Copyright (c) 2015年 Tarena. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface SBTests : XCTestCase
+@interface MyFirstGithubObjectTests : XCTestCase
 
 @end
 
-@implementation SBTests
+@implementation MyFirstGithubObjectTests
 
 - (void)setUp {
     [super setUp];

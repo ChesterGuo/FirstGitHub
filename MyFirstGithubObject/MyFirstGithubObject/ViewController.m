@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  SB
+//  MyFirstGithubObject
 //
 //  Created by tarena on 15/7/1.
 //  Copyright (c) 2015年 Tarena. All rights reserved.
@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"caonima");
+    NSLog(@"Hello world!");
 }
 
 - (void)didReceiveMemoryWarning {

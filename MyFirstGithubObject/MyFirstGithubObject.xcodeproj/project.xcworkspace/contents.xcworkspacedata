@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SB.xcodeproj">
+      location = "self:MyFirstGithubObject.xcodeproj">
    </FileRef>
 </Workspace>
