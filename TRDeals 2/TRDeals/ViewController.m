@@ -35,7 +35,7 @@
    
     NSArray *cities = [TRMeataDataTool cities];
     for (TRCities *ci in cities) {
-        NSLog(@"%@有%ld县",ci.name,ci.regions.count);
+        NSLog(@"%@有%ld个县",ci.name,ci.regions.count);
     }
 }
 - (void)request:(DPRequest *)request didFailWithError:(NSError *)error
